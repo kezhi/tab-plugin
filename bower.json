@@ -12,7 +12,6 @@
   ],
   "license": "MIT",
   "homepage": "git://github.com/kezhi/tab-plugin",
-//  "private": true,
   "dependencies": {
 	 "jquery": "latests"
    },
